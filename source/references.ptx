@@ -41,6 +41,11 @@
         <title>Checkit</title>.
         <url href="https://checkit.clontz.org/"/>.
     </biblio>
+    <biblio type="raw" xml:id="biblio-checkit-issues">
+        Steven Clontz,
+        <title>Issues - StevenClontz/checkit</title>.
+        <url href="https://github.com/StevenClontz/checkit/issues"/>.
+    </biblio>
     <biblio type="raw" xml:id="biblio-ghclontz">
         Steven Clontz,
         <title>GitHub Repositories</title>.
@@ -53,9 +58,9 @@
     </biblio>
     <biblio type="raw" xml:id="biblio-repo">
         Steven Clontz,
-        <title>StevenClontz/sabbatical-proposal-2022</title>.
+        <title>StevenClontz/2022-spda-application</title>.
         <journal>GitHub</journal>.
-        <url href="https://github.com/StevenClontz/sabbatical-proposal-2022"/>.
+        <url href="https://stevenclontz.github.io/2022-spda-application/"/>.
     </biblio>
     <biblio type="raw" xml:id="biblio-ifat">
         S.H. Cotner, B.A. Fall, S.M. Wick, J.D. Walker, &amp; P.M. Baepler,
