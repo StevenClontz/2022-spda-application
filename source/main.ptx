@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+  <article xml:id="sabbatical-proposal">
+    <title>Open Technologies for Undergraduate Mathematics Education</title>
+    <subtitle>Application for 2022 Arts and Sciences Summer Professional Development Award</subtitle>
+    <frontmatter>
+      <titlepage>
+        <author>
+          <personname>Steven Clontz</personname>
+          <department>Department of Mathematics and Statistics</department>
+          <institution>University of South Alabama</institution>
+        </author>
+        <date>2021 December</date>
+      </titlepage>
+      <abstract>
+        <p>
+NSF's Office of Advanced Cyberinfrastructure (OAC) <q>supports and coordinates the development,
+acquisition, and provision of state-of-the-art cyberinfrastructure resources, tools and services
+essential to the advancement and transformation of science and engineering</q>. In service of this
+mission, Dr. Clontz serves as co-PI on NSF DUE Award 2011807 <xref ref="biblio-tbil-award"/>,
+responsible for the development of several open-source technologies to support evidence-based pedagogies in
+undergraduate mathematics education.
+        </p>
+        <p>
+This proposal requests to leverage the momentum from these projects by allowing Clontz to extend
+his current NSF support of one month in 2022 Summer to spend the full summer developing these
+technologies, as well as prepare a new NSF grant proposal as Principal Investigator specifically
+dedicated to developing and evaluating these technologies for use in the undergraduate mathematics classroom.
+        </p>
+      </abstract>
+    </frontmatter>
+    <xi:include href="./background.ptx" />
+    <xi:include href="./activities.ptx" />
+    <xi:include href="./outcomes.ptx" />
+    
+    <backmatter>
+    <xi:include href="./references.ptx" />
+    </backmatter>
+
+  </article>
+</pretext>
